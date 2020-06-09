@@ -43,6 +43,6 @@ Inspect and compare the ouputs
 
 run counts-to-tpm script to convert read counts to normalized value: transcripts per million (TPM)
 
-
+## RNA seq and genome data for this tutorial was obtained from the following publication: https://www.cell.com/cell/pdfExtended/S0092-8674(13)00646-6
 
 
