@@ -43,6 +43,9 @@ Inspect and compare the ouputs
 
 run counts-to-tpm script to convert read counts to normalized value: transcripts per million (TPM)
 
-## RNA seq and genome data for this tutorial was obtained from the following publication: https://www.cell.com/cell/pdfExtended/S0092-8674(13)00646-6
+## RNA seq and genome data for this tutorial was obtained from the following publication:
+https://www.cell.com/cell/pdfExtended/S0092-8674(13)00646-6
+
+Husnik et al...McCutcheon. (2013) "Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tripartite Nested Mealybug Symbiosis" Cell. https://doi.org/10.1016/j.cell.2013.05.040
 
 
